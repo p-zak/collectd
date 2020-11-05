@@ -84,6 +84,7 @@ addons:
     - libsensors4-dev
     - libsigrok-dev
     - libsnmp-dev
+    - libsqlite3-dev
     - libtokyocabinet-dev
     - libtokyotyrant-dev
     - libudev-dev
